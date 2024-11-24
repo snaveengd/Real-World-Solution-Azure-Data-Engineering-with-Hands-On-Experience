@@ -1,0 +1,9 @@
+{
+	"name": "azure-end-dev-01-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8c204485-6245-4ff0-9166-4fb025c7ed1f",
+		"tenantId": "485a6247-dee9-4310-bc5e-9d4c38481a0c"
+	}
+}
